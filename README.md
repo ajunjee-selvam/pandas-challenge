@@ -1,5 +1,4 @@
 # pandas-challenge
-pandas-challenge
 
 This repo houses the Module 4 - Pandas challenge. 
 - The "main" script contains the entire code for this challenge. 
